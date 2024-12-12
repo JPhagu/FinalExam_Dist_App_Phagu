@@ -1,4 +1,8 @@
 # FinalExam_Dist_App_Phagu
+
+## Created by : Joshua Phagu
+## Student Number : 8761941
+## Email : jphagu1941@conestogac.on.ca
 - access the api:
      ```
      http://localhost:3000
